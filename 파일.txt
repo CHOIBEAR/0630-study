@@ -1,0 +1,1 @@
+& C:/Users/hi/AppData/Local/Programs/Python/Python313/python.exe "c:/ID CHOI/study/0630-study/memo.py"
